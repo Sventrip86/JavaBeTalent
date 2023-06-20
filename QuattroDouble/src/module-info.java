@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yufun
+ *
+ */
+module QuattroDouble {
+}
