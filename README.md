@@ -28,7 +28,7 @@ Inserire un giorno della settimana, per ogni giorno stampare il numero del giorn
 
 ES 5  OrientamentoAlimentare
 Classe Persona con attributo orientamento alimentare (onnivoro, vegetariano). Dati in ingresso 4 piatti (String)
-Usare il controllo ternario per determinare se una persona consuma il pasto o no.4
+Usare il controllo ternario per determinare se una persona consuma il pasto o no.
 
 ESERCIZI – CLASSI E METODI
 
@@ -45,11 +45,3 @@ Rifornire due automobili di benzina e stampare quanto carburante è rimasto nell
 
 Es 4
 Dati due punti determinarne la distanza su un piano cartesiano.
-
-
-
-
-
-
-
-
